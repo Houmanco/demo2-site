@@ -332,46 +332,6 @@ h3 {
   margin-top: 60px;
 }
 
-.header__main-mobile__info {
-  position: absolute;
-  top: 440px;
-  left: 24px;
-  width: 163px;
-  height: 80px;
-  background-color: #f1f1f166;
-  display: none;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  border-radius: 50px 50px 0px 50px;
-  border: 1px solid #f1f1f1;
-}
-
-.header__main-mobile__info-top {
-  display: flex;
-  align-items: center;
-  gap: 8px;
-}
-
-.header__main-mobile__info-top svg {
-  width: 18px;
-  height: 18px;
-}
-
-.header__main-mobile__info-ft {
-  font-family: "Poppins 400";
-  font-size: 16px;
-  line-height: 36px;
-  color: #323232;
-}
-
-.header__main-mobile__info-st {
-  font-family: "Poppins 400";
-  font-size: 14px;
-  line-height: 24px;
-  color: #7d7c7c;
-}
-
 .header__main-right__info {
   position: absolute;
   top: 90px;
@@ -1266,10 +1226,6 @@ h3 {
     display: none;
   }
 
-  .header__main-mobile__info {
-    display: flex;
-  }
-
   .br1 {
     display: none;
   }
@@ -1439,4 +1395,5 @@ h3 {
     font-size: 28px;
   }
 }
+
 
