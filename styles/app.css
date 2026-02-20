@@ -264,6 +264,7 @@ h3 {
   line-height: 36px;
   font-weight: bolder;
 }
+
 .header__main-left__count {
   display: flex;
   justify-content: center;
@@ -333,7 +334,7 @@ h3 {
 
 .header__main-mobile__info {
   position: absolute;
-  bottom: 395px;
+  top: 440px;
   left: 24px;
   width: 163px;
   height: 80px;
@@ -1438,3 +1439,4 @@ h3 {
     font-size: 28px;
   }
 }
+
